@@ -5,7 +5,8 @@
 </head>
 <body style="font-family: Arial; text-align:center; margin-top:80px;">
 
-<h1>🎉 Jenkins + Maven + Tomcat Deployment Successful!</h1>
+
+<h1>🎉 CI/CD Auto Deployment Working Successfully!</h1>
 
 <h2>College CI/CD Assignment</h2>
 
