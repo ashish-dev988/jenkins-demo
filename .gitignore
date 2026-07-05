@@ -1,0 +1,5 @@
+target/
+*.class
+*.jar
+*.war
+pom.xml.bak
