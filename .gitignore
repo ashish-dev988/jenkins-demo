@@ -1,5 +1,27 @@
+# Maven build output
 target/
+
+# Java compiled files
 *.class
+
+# Packaged files
 *.jar
 *.war
-pom.xml.bak
+
+# Backup files
+*.bak
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
